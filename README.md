@@ -66,7 +66,7 @@
 
 Adrio is an AI‑powered creative studio that helps performance marketers design, generate, and launch Meta (Facebook and Instagram) ad creatives in seconds. Its Spark agent researches competitor ads, creates static and video assets, and automates testing and budgeting, offering a fast, data‑driven workflow for high‑converting campaigns.
 
-**Areas:** AI · Advertising · Creative · Meta · Marketing
+**Areas:** Artificial Intelligence · Advertising · Creative · Meta · Marketing
 
 ## Adrio on APIs.io
 
@@ -80,30 +80,36 @@ Everything profiled for Adrio is published on APIs.io rather than in this reposi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adrio-ai-mcp.yml](https://apis.io/servers/adrio-ai/adrio-ai-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adrio Ai Authentication](https://apis.io/security/adrio-ai/adrio-ai-authentication/)
-- [Adrio Ai Domain Security](https://apis.io/security/adrio-ai/adrio-ai-domain-security/)
+- [Adrio Authentication](https://apis.io/security/adrio-ai/adrio-ai-authentication/)
+- [Adrio Domain Security](https://apis.io/security/adrio-ai/adrio-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adrio Ai Scopes](https://apis.io/scopes/adrio-ai/adrio-ai-scopes/)
+- [Adrio Scopes](https://apis.io/scopes/adrio-ai/adrio-ai-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adrio Ai Plans Pricing](https://apis.io/plans/adrio-ai/adrio-ai-plans-pricing/)
+- [Adrio Plans Pricing](https://apis.io/plans/adrio-ai/adrio-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adrio Ai Rate Limits](https://apis.io/rate-limits/adrio-ai/adrio-ai-rate-limits/)
+- [Adrio Rate Limits](https://apis.io/rate-limits/adrio-ai/adrio-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -121,18 +127,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 30.5** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 31.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 44.5 |
-| Access clarity | 60.0 |
+| Access clarity | 66.0 |
 
-**Agent readiness 27.6** — agent-aware
+**Agent readiness 27.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -158,8 +164,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adrio-ai/](https://apis.io/providers/adrio-ai/).
 
